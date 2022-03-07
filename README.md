@@ -1,5 +1,5 @@
 # Text-Wrapper
-A library that helps you split texts according to defined maximum length.
+A Console application that accepts a text file and splits the texts according to defined maximum length.
 
 # Assumptions
 *I have assumed that the text to wrap is read from a .txt file
